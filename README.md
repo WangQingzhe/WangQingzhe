@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying in College of Computer in NUDT,China
+- 🔭 I’m currently studying in College of Computer Science in NUDT,China
 - 🌱 I’m currently learning Parallel Computing
 - 👯 I’m looking to collaborate on studies about Bio-information.
 - 🤔 I’m looking for help with ...
